@@ -1,0 +1,8 @@
+<?php
+/**
+ * @file
+ * Code for the sittr_site feature.
+ */
+
+include_once 'sittr_site.features.inc';
+
